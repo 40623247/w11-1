@@ -52,20 +52,20 @@
 <v t="leo.20171106081912.7" a="E"><vh>封面投影片</vh>
 <v t="leo.20171106081912.8"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20171116180835.1" a="E"><vh>W1-W3</vh>
+<v t="leo.20171116180835.1" a="E"><vh>W10-W12</vh>
 <v t="leo.20171116180835.2"><vh>準備與鼓勵</vh></v>
 </v>
-<v t="leo.20171106081912.11" a="E"><vh>W3-W6</vh>
+<v t="leo.20171106081912.11" a="E"><vh>W13-W14</vh>
 <v t="leo.20171106081912.12"><vh>Win 64 位元專用</vh></v>
 </v>
-<v t="leo.20171106081912.13" a="E"><vh>W7</vh>
+<v t="leo.20171106081912.13" a="E"><vh>W15-W16</vh>
 <v t="leo.20171106081912.14" a="E"><vh>Python 與 C/C++</vh>
 <v t="leo.20171106081912.15"><vh>程式學習順序</vh></v>
 </v>
 </v>
-<v t="leo.20171106102342.1" a="E"><vh>W9</vh>
-<v t="leo.20171106102342.2" a="E"><vh>Python 與 C/C++</vh>
-<v t="leo.20171106102342.3"><vh>程式學習順序</vh></v>
+<v t="leo.20180107201630.1" a="E"><vh>W18</vh>
+<v t="leo.20180107201630.2" a="E"><vh>Python 與 C/C++</vh>
+<v t="leo.20180107201630.3"><vh>程式學習順序</vh></v>
 </v>
 </v>
 </v>
@@ -83,6 +83,11 @@
 <v t="leo.20171106104454.1"><vh>@edit 20171106.md</vh></v>
 <v t="leo.20171113150600.1"><vh>@edit 20171113.md</vh></v>
 <v t="leo.20171120141228.1"><vh>@edit 20171120.md</vh></v>
+<v t="leo.20180107195712.1"><vh>@edit 20171127.md</vh></v>
+<v t="leo.20180107195506.1"><vh>@edit 20171204.md</vh></v>
+<v t="leo.20180107195546.1"><vh>@edit 20171211.md</vh></v>
+<v t="leo.20180107195611.1"><vh>@edit 20171218.md</vh></v>
+<v t="leo.20180107195623.1"><vh>@edit 20171225.md</vh></v>
 <v t="yen.20170108171733.81" a="E"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -121,12 +126,10 @@ g.es("admin pelican Github 執行完畢")
 
 						
 </t>
-<t tx="leo.20171106081912.12">#W4-W6
+<t tx="leo.20171106081912.12">#W13-W14
 
-* 學習Fossil指令
-* 管理倉儲與網誌
-* 了解eric6基本用法
-* 學習Python3基本語法
+* 說明如何利用 Github 倉儲中的 gh-pages 分支進行協同程式設計
+* 各組開始分工寫計算機
 
 
 </t>
@@ -146,13 +149,10 @@ g.es("admin pelican Github 執行完畢")
 
 						
 </t>
-<t tx="leo.20171106081912.15"># W7-W8
+<t tx="leo.20171106081912.15"># W14-W16
 
-* 錄製考試影片
-* 上傳考試影片至Vimeo及Youtube
-* 利用eric6製作計算機架構
-* 製作期中報告
-
+* 說明期末專案執行相關期程規劃與內容提要
+* 各組員分工將計算機完成
 </t>
 <t tx="leo.20171106081912.2">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
@@ -241,7 +241,7 @@ g.es("admin pelican Github 執行完畢")
 
 						
 </t>
-<t tx="leo.20171106081912.8">## 2017Fall  CPB 期中報告
+<t tx="leo.20171106081912.8">## 2017Fall  CPB 期末報告
 
 ### 虎科大機械設計工程系
 ###設計一乙廖峻祥
@@ -255,33 +255,6 @@ Created by [40623247](http://kmolab.github.io/blog/)
 
 
 </t>
-<t tx="leo.20171106102342.1">&lt;section&gt;
-    @others
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20171106102342.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20171106102342.3"># 學習心得
-
-* 剛開始學習時,對於程式語言很陌生,
-常常搞不清楚自己在做甚麼,之後一邊
-看影片一邊慢慢的跟著做,漸漸的開始
- 學會如何使用.
- 
- 
- #自評成績
-  70
-</t>
 <t tx="leo.20171116180835.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -291,15 +264,39 @@ Created by [40623247](http://kmolab.github.io/blog/)
 
 						
 </t>
-<t tx="leo.20171116180835.2"># W1-W3
+<t tx="leo.20171116180835.2"># W10-W12
 
 
-*準備課程所需用品筆記本隨身碟與耳機
-* 充分了解隨身系統的啟動關機與使用
-* 先在近端運作, 然後同桌電腦, 最後區網與雲端
-* 了解機械設計本質, 六種表達與如何培養創造力
-*要怎麼收穫,就怎麼栽,沒有捷徑,真的沒有捷徑
-* 每天紀錄, 自己如何過完人生中這個寶貴的一天
+* 複習前幾週所學,整理自己的隨身環境系統
+* 練習利用eric6完成計算機對話框所需按鍵的配置
+* 了解如何設定 Dialog, pressButton 與 lineEdit 物件的尺寸大小
+* 說明如何開始執行 PyQt5 計算機程式的期末專案
+* 學習git指令</t>
+<t tx="leo.20180107201630.1">&lt;section&gt;
+    @others
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180107201630.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180107201630.3"># 學習心得
+
+* 在這學期學習到了基本計算機程式，也了解到要寫出一套軟體並不容易，要一直反覆的練習才可以慢慢的上手，雖然理解的並不多，但只要多看多聽多學多操作就可以做的越來越好。
+
+
+
+
+#自評成績:62
+
 </t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
